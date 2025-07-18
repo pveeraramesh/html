@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: yellow;
+    color: green;
+    padding: 20px;
+}
+
+button {
+	font-family: Arial, sans-serif;
+    padding: 10px;
+    font-size: 16px;
+	background-color: #FFA500;
+	color: green;
+    cursor: pointer;
+}
+html {
+  background-color: #7FFFD4;
+}
